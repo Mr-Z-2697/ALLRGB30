@@ -7,4 +7,5 @@ It generates a 32768 x 32768 image contains all 10 bit-depth rgb colors stored i
 
 Main code structure stolen from https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art
 
-**Downscaled** preview: https://ipfs.io/ipfs/QmaywbraSVQe5BsA9cZja5jvmh2d8g35qBpVFWxLUkhifH
+**Downscaled** preview: 
+![Preview](https://ipfs.io/ipfs/QmaywbraSVQe5BsA9cZja5jvmh2d8g35qBpVFWxLUkhifH)
